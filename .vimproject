@@ -1,0 +1,17 @@
+" vim: set ft=vim:
+
+" Automatic source formatting
+augroup fmt
+  autocmd!
+  autocmd BufWritePre * undojoin | Neoformat
+augroup END
+
+let g:neoformat_enabled_javascript = ['prettier']
+let g:neoformat_enabled_json = ['prettier']
+let g:neoformat_basic_format_trim = 1
+
+" Automatic linting
+call neomake#configure#automake('rw')
+let g:neomake_javascript_enabled_makers = ['eslint']
+let g:neomake_javascript_eslint_exe = expand('<sfile>:p:h') . '/node_modules/.bin/eslint'
+
