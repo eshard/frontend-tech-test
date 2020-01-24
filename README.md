@@ -77,7 +77,7 @@ Add something to the game to make it more interesting, it could be anything.
 The most important thing here is to have fun! :)
 
 If you want to use more images than the ones we supply, you can have a look at
-the [ffull tileset at OpenGameArt](https://opengameart.org/sites/default/files/DungeonCrawl_ProjectUtumnoTileset_0.png)
+the [full tileset at OpenGameArt](https://opengameart.org/sites/default/files/DungeonCrawl_ProjectUtumnoTileset_0.png)
 
 ## Time limit
 
@@ -86,5 +86,5 @@ shouldn't exceed a couple hours to finish the basic exercises.
 
 ## How to submit your test?
 
-Send this whole folder (you can omit `node_modules`) either by sharing a Gt
+Send this whole folder (you can omit `node_modules`) either by sharing a Git
 repository or by packing it into an archive.
