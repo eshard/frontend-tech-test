@@ -82,7 +82,7 @@ the [full tileset at OpenGameArt](https://opengameart.org/sites/default/files/Du
 ## Time limit
 
 You have no specific time limit for this project, although it probably
-shouldn't exceed a couple hours to finish the basic exercises.
+shouldn't exceed a couple of hours to finish the basic exercises.
 
 ## How to submit your test?
 
