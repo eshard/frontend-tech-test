@@ -1,2 +1,5 @@
 export { default as floor } from "./floor.png"
+export { default as player } from "./player.png"
+export { default as stairsDown } from "./stairs-down.png"
+export { default as stairsUp } from "./stairs-up.png"
 export { default as wall } from "./wall.png"
