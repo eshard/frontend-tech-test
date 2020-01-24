@@ -8,7 +8,7 @@ which you can find the original README from in the [README.CRA.md](/README.CRA.m
 
 ## Goals
 
-The purpose of this test is threefold:
+The purpose of this test is twofold:
 
 - Test your knowledge of React and your ability to build apps with it
 - Challenge your creativity and your proactiveness
