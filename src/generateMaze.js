@@ -1,4 +1,4 @@
-import { Amazer, AmazerBuilder, RandomizedPrim, Emmure } from "amazer"
+import { Amazer, AmazerBuilder, RandomizedPrim } from "amazer"
 
 export default function generateMaze() {
   const config = new AmazerBuilder()
