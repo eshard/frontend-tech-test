@@ -1,4 +1,4 @@
-# eShard Frontend Developer Technical Test
+# eShard Front-end Developer Technical Test
 
 This repository holds the base source code for eShard's technical test for
 frontend developers.
