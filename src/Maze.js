@@ -6,9 +6,9 @@ import "./Maze.css"
 function Maze({ maze }) {
   return (
     <div className="Maze">
-      {maze.tiles.map(row => (
+      {maze.tiles.map((row) => (
         <div className="Maze-row">
-          {row.map(cell => (
+          {row.map((cell) => (
             <img src={cell.passable ? images.floor : images.wall} alt="" />
           ))}
         </div>

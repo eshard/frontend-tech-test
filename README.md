@@ -68,13 +68,15 @@ Depending on the score we want to assign a rank to the player:
 - _Average_ if the score is greater or equal to 0.5
 - _Poor_ if the score is lower than 0.5
 
-### Be creative!
+### E5 - Be creative!
 
 Congratulations if you've made it here! We have one last assignment to you, but
 for this one it will be up to you!
 
-Add something to the game to make it more interesting, it could be anything.
-The most important thing here is to have fun! :)
+Add something to the game to make it more interesting, it could be anything,
+from items to combat with monsters. The most important thing here is to have
+fun! :) We would really appreciate if this additional feature makes use of an
+API or any other network interaction.
 
 If you want to use more images than the ones we supply, you can have a look at
 the [full tileset at OpenGameArt](https://opengameart.org/sites/default/files/DungeonCrawl_ProjectUtumnoTileset_0.png)
