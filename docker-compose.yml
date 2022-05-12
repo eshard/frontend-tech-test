@@ -1,0 +1,16 @@
+services:
+  db:
+    image: postgres
+    environment:
+      - POSTGRES_DB=eshard
+      - POSTGRES_USER=sacha
+      - POSTGRES_PASSWORD=bourgpalet
+    restart: always
+    ports:
+      - "5432:5432"
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - "8080:8080"

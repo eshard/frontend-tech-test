@@ -1,0 +1,20 @@
+datasource db {
+    url      = env("DATABASE_URL")
+    provider = "postgresql"
+}
+
+generator client {
+    provider = "prisma-client-js"
+}
+
+model Pokemon {
+    id          Int      @id
+    createdAt   DateTime @default(now())
+    name        String
+    description String
+    image       String?
+    species     String
+    height      String
+    weight      String
+    types       String[]
+}
